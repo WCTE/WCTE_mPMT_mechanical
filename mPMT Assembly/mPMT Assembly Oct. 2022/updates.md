@@ -1,4 +1,4 @@
-	Difference from the old assembly: 
+	Difference from the old assembly:  
 	
 	• Assembly Progress rev3 -> Assembly Progress rev4.2
 			▪ Shubham Matrix Improved_4.1-01 -> Matrix Improved_4.4
